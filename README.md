@@ -5,7 +5,6 @@ It includes datasets, Jupyter notebooks, and trained models, as well as supporti
 - `data/` — contains datasets used for training and testing.
 - `models/` — stores saved model artifacts.
 - `notebooks/` — Jupyter notebooks for exploratory data analysis and model development.
-- `scripts/` — optional folder for Python scripts related to model training, evaluation, and utilities.
 
 ## Setup
 Install the dependencies with:
